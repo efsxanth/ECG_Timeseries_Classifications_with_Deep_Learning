@@ -1,4 +1,4 @@
-# ECG_Timeseries_Classifictions_with_Deep_Learning
+# ECG_Timeseries_Classifications_with_Deep_Learning
 
 ## Overview
 
